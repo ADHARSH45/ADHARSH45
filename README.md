@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Node.js, React, Firebase, MongoDB**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/arkatulk/arkatulk/issues)**
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/ADHARSH45/ADHARSH45/issues)**
 
  ⚡ Fun fact: **Venus is the only planet that spins clockwise 🪐**
  
